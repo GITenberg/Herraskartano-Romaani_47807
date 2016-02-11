@@ -1,0 +1,33 @@
+_repo: Herraskartano-Romaani_47807
+contributor:
+  translator:
+    agent_name: Kaila, Eino
+    birthdate: 1890
+    deathdate: 1958
+    gutenberg_agent_id: '5043'
+    url: http://www.gutenberg.org/2009/agents/5043
+    wikipedia:
+    - http://fi.wikipedia.org/wiki/Eino_Kaila
+    - http://en.wikipedia.org/wiki/Eino_Kaila
+creator:
+  author:
+    agent_name: Galsworthy, John
+    alias: Sinjohn, John
+    birthdate: 1867
+    deathdate: 1933
+    gutenberg_agent_id: '850'
+    url: http://www.gutenberg.org/2009/agents/850
+    wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
+description: ''
+gutenberg_issued: '2014-12-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '47807'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Herraskartano
+
+  Romaani'
+url: http://www.gutenberg.org/ebooks/47807
