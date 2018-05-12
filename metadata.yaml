@@ -1,4 +1,5 @@
 _repo: Herraskartano-Romaani_47807
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Kaila, Eino
@@ -9,6 +10,9 @@ contributor:
     wikipedia:
     - http://fi.wikipedia.org/wiki/Eino_Kaila
     - http://en.wikipedia.org/wiki/Eino_Kaila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Galsworthy, John
@@ -19,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/850
     wikipedia: http://en.wikipedia.org/wiki/John_Galsworthy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47807#Herraskartano-Romaani
 gutenberg_issued: '2014-12-29'
 gutenberg_type: Text
 identifiers:
